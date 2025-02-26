@@ -1,18 +1,20 @@
 # National Park
-The letterforms found on the wooden signage at the Rocky Mountain National Park inspired the creation of the National Park. 
 ![NP_readme](https://github.com/user-attachments/assets/de3b63f1-8bca-4633-82fa-db5dcfc36632)
-![NP_readme2](https://github.com/user-attachments/assets/0a08b435-adf8-414d-a2c8-158645210ee9)
 
-The letters on these wooden trail and directional signs are a system of paths, points, and curves that a router follows. The router’s "bit" follows the path and gives the letters its stroke weight or thickness when engraving a sign. National Park Typeface walks along the path of both honoring the quirky nature of the forms being created by a router bit and optimizing the forms to work in a variety of sizes and languages for print, web, and mobile platforms. 
+The letterforms found on the wooden signage at the Rocky Mountain National Park inspired the creation of the National Park. The letters on these wooden trail and directional signs are a system of paths, points, and curves that a router follows. The router’s "bit" follows the path and gives the letters its stroke weight or thickness when engraving a sign. National Park Typeface walks along the path of both honoring the quirky nature of the forms being created by a router bit and optimizing the forms to work in a variety of sizes and languages for print, web, and mobile platforms. 
+
+![NP_readme2](https://github.com/user-attachments/assets/0a08b435-adf8-414d-a2c8-158645210ee9)
 
 The design of each character begins with a vector skeleton, represented by a series of coordinates that a router would typically interpret and carve into a wooden sign. From there adjustments were made to each skeleton to ensure comfortable legibility at different weights, and we also incorporate optical adjustments where the capabilities of an analog router falls short. The result is a typeface that stays true to its unique inspiration, maintaining its inviting warmth and distinctive character. It can be effectively utilized across a wide range of applications while preserving the essence that makes it truly special.
 
-National Park is offered in 7 weights/masters (Extra Light, Light, Regular, Medium, SemiBold, Bold and Extra Bold and a variable version that bridges the gap between weights. 
 ![NP_readme3](https://github.com/user-attachments/assets/441f936e-4a8a-42bb-9f43-a77a9c92bd33)
+
+National Park is offered in 7 weights/masters (Extra Light, Light, Regular, Medium, SemiBold, Bold and Extra Bold and a variable version that bridges the gap between weights. 
+
 ![NP_readme4](https://github.com/user-attachments/assets/38be2686-0258-4caa-ad39-a0b334fb7eb7)
+![NP_readme5](https://github.com/user-attachments/assets/94ada042-7786-486d-be76-966c0fcae4b4)
 
 To contribute, see github.com/googlefonts/XXXXXXX
-![NP_readme5](https://github.com/user-attachments/assets/94ada042-7786-486d-be76-966c0fcae4b4)
 
 ## About
 

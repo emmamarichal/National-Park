@@ -8,10 +8,9 @@ The letterforms found on the wooden signage at the Rocky Mountain National Park 
 
 The design of each character begins with a vector skeleton, represented by a series of coordinates that a router would typically interpret and carve into a wooden sign. From there adjustments were made to each skeleton to ensure comfortable legibility at different weights, and we also incorporate optical adjustments where the capabilities of an analog router falls short. The result is a typeface that stays true to its unique inspiration, maintaining its inviting warmth and distinctive character. It can be effectively utilized across a wide range of applications while preserving the essence that makes it truly special.
 
-https://github.com/user-attachments/assets/35c71661-7e18-4bcc-a6dc-3c5cee577697
-
 National Park is offered in 7 weights/masters (Extra Light, Light, Regular, Medium, SemiBold, Bold and Extra Bold and a variable version that bridges the gap between weights. 
 
+https://github.com/user-attachments/assets/35c71661-7e18-4bcc-a6dc-3c5cee577697
 ![NP_ReadMeWeights3](https://github.com/user-attachments/assets/6ecdaba1-4344-4ff8-879a-69770775896c)
 ![NP_ReadMe4](https://github.com/user-attachments/assets/d9c6751b-ee86-4d7a-b8bc-b6f3b3d04c9b)
 ![NP_ReadMe5](https://github.com/user-attachments/assets/0aaa49b9-347d-4840-8b64-f696c18c9250)

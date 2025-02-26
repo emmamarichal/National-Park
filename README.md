@@ -10,7 +10,10 @@ The design of each character begins with a vector skeleton, represented by a ser
 
 National Park is offered in 7 weights/masters (Extra Light, Light, Regular, Medium, SemiBold, Bold and Extra Bold and a variable version that bridges the gap between weights. 
 
-https://github.com/user-attachments/assets/714bf209-b02f-4f97-a6ae-7b24fa3f32d7
+
+https://github.com/user-attachments/assets/d12c1882-36a2-4478-af0a-ca6d7532ae7b
+
+
 ![NR_ReadMe_w_words](https://github.com/user-attachments/assets/b99deb80-961a-4f0f-88e7-18aae0f23ce4)
 ![NR_ReadMe_glyphs](https://github.com/user-attachments/assets/1dac24d8-0f8f-4188-a02c-fc26e11529d1)
 ![NP_ReadMe5](https://github.com/user-attachments/assets/0aaa49b9-347d-4840-8b64-f696c18c9250)
